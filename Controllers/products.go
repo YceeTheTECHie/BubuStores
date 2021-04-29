@@ -6,4 +6,4 @@ import (
 	"strconv"
 )
 
-func getProducts
+func getProducts 
